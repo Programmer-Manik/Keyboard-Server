@@ -44,11 +44,11 @@ KBD DEEP is built with a robust tech stack that includes React, Redux, Vite, Typ
 
 1. **Clone the Repository**
    ```bash
-   git clone 
+   git clone https://github.com/Programmer-Manik/Keyboard-Client.git
    ```
 1. **Clone the Repository of server**
    ```bash
-   git clone 
+   git clone https://github.com/Programmer-Manik/Keyboard-Server.git
    ```
 1. **Frontend Setup**
 
